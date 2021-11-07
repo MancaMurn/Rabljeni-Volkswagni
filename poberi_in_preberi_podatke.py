@@ -19,12 +19,12 @@ vzorec_avto = re.compile(
     r'Menjalnik.*?<td class=.*?>(?P<vrsta_menjalnika>)</td>.*?'
     r'Motor.*?<td class=.*?>(?P<vrsta_motorja>)</td>.*?'
     r'<!-+ CENA -*>.*?<div class="GO-Results-Price-TXT-Regular">(?P<cena>).*?€</div>',
-    flags=re.DOTAL
+    flags=re.DOTALL
 )
 
 vzorec_model = re.compile(
     r'[Vv]olkswagen (?P<model>) .*',
-    flags=re.DOTAL
+    flags=re.DOTALL
 )
 
 # vzorec_osebe = re.compile(
@@ -72,12 +72,17 @@ vzorec_model = re.compile(
 #         })
 #     return osebe
 
+    
+
+
+
 def izloci_podatke_avta(blok):
     avto = vzorec_avto.search(blok).groupdict()
     avto['leto_prve_registracije'] = int(avto['leto_prve_registracije'])
     avto['prevozeni_kilometri'] = int(avto['prevozeni_kilometri'])
     avto['cena'] = int(avto['cena'])
     avto['ime'] = vzorec_model.search(avto['ime'])
+    return avto
  # a bo to delovalo??
 
 
@@ -141,9 +146,7 @@ def avti_na_strani(st_strani, na_stran=250):
     orodja.shrani_spletno_stran(url, ime_datoteke)
     vsebina = orodja.vsebina_datoteke(ime_datoteke)
     for blok in vzorec_bloka.finditer(vsebina):
-        yield 
-    # for blok in vzorec_bloka.finditer(vsebina):
-    #     yield izloci_podatke_filma(blok.group(0))
+        yield izloci_podatke_avta(blok.group(0))
 
 
 # def izloci_gnezdene_podatke(filmi):
@@ -176,6 +179,19 @@ def avti_na_strani(st_strani, na_stran=250):
 #     zanri.sort(key=lambda zanr: (zanr['film'], zanr['zanr']))
 
 #     return osebe, vloge, zanri
+
+
+avtomobili = []
+for st_strani in range(1, 7):
+    for avto in avti_na_strani(st_strani):
+        avtomobili.append(avto)
+orodja.zapisi_json(avtomobili, 'obdelani-podatki/avtomobili.json')
+orodja.zapisi_csv(
+    avtomobili, 
+    ['ime', 'leto_prve_registracije', 'prevoženi_kilometri', 'vrsta_goriva', 'vrsta_menjalnika', 'vrsta_motorja', 'cena'],
+    'obdelani_podatki/avtomobili.csv')
+
+
 
 
 # filmi = []
