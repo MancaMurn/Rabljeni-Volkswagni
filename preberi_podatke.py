@@ -2,13 +2,7 @@ import re
 import orodja
 
 
-vzorec_bloka = re.compile(
-    r'<!-- SHOW TOP PONUDBA -*?>'
-    r'.*?'
-    r'<!-- SHOW BANNER -*?>',
-    flags=re.DOTALL
-)
-
+#spletne strani sem shranila na roke, saj druga orodja niso delovala.
 
 vzorec_avto = re.compile(
     r'<!-- SHOW BANNER -+>.*?'
@@ -17,9 +11,9 @@ vzorec_avto = re.compile(
     r'1.registracija.*?<td class=.*?>(?P<leto_prve_registracije>.+?)</td>.*?'
     r'Prevoženih.*?<td class=.*?>(?P<prevozeni_kilometri>.+?) km</td>.*?'
     r'Gorivo.*?<td class=.*?>(?P<vrsta_goriva>.+?)</td>.*?'
-    r'Menjalnik.*?<td class=.*?>\n *(?P<vrsta_menjalnika>.+?)\n *</td>.*?'
-    r'Motor.*?<td class=.*?>(?P<vrsta_motorja>.+?)</td>.*?'
-    r'<div class="GO-Results.*?Price-TXT-.*?">(?P<cena>.+?)€</div>',
+    r'Menjalnik.*?<td class=.*?>(?P<vrsta_menjalnika>.+?)</td>.*?'
+    r'Motor.*?<td class=.*?>\n *(?P<vrsta_motorja>.+?)\n *</td>.*?'
+    r'<div class="GO-Results.*?Price-TXT-.*?">(?P<cena>\d.*?) €?</div>',
     flags=re.DOTALL
 )
 
@@ -39,12 +33,6 @@ def izloci_podatke_avta(seznam_slovarjev):
         #avto['cena'] = int(avto['cena'])
         avto['ime'] = vzorec_model.search(avto['ime']).group(1)
 
-# bloki = []
-# for i in range(1, 22):
-#     stran = orodja.vsebina_datoteke(f"stran_{i}.html")
-#     zadetki = vzorec_bloka.findall(stran)
-#     for zadetek in zadetki:
-#         bloki.append(zadetek)
 
 
 avti = []

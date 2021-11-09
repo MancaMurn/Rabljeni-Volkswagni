@@ -1,0 +1,1888 @@
+ime,leto_prve_registracije,prevozeni_kilometri,vrsta_goriva,vrsta_menjalnika,vrsta_motorja,cena
+
+Passat,2016,218550,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",14.400
+
+Passat,2013,264000,diesel motor,avtomatski menjalnik,"1968 ccm, 130 kW / 177 KM",11.500
+
+Tiguan,2018,49748,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",19.990
+
+Touran,2017,116000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.000
+
+Golf,2015,248000,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",14.490
+
+Tiguan,2017,83000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.990
+
+Caravelle,1997,395000,diesel motor,ročni menjalnik,"2461 ccm, 75 kW / 102 KM",5.900
+
+Golf,2016,112500,bencinski motor,ročni menjalnik,"1197 ccm, 81 kW / 110 KM",11.333
+
+Golf,2015,179000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",8.800
+
+Passat,2006,274000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.800
+
+Golf,2016,199817,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",10.300
+
+Polo,2015,99950,bencinski motor,ročni menjalnik,"1197 ccm, 66 kW / 90 KM",8.600
+
+Tiguan,2018,141681,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",27.990
+
+Passat,2015,136955,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.990
+
+Golf,2021,8033,bencinski motor,avtomatski menjalnik,"1984 ccm, 180 kW / 245 KM",42.690
+
+Touran,2016,124665,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",18.990
+
+Multivan,2004,400000,diesel motor,ročni menjalnik,"2460 ccm, 128 kW / 174 KM",6.500
+
+Golf,2007,265853,bencinski motor,ročni menjalnik,"1984 ccm, 147 kW / 200 KM",7.499
+
+Polo,2017,169000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.900
+
+Passat,2011,269000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.990
+
+Passat,2013,224000,diesel motor,avtomatski menjalnik,"1968 ccm, 130 kW / 177 KM",11.880
+
+Polo,2013,227000,diesel motor,ročni menjalnik,"1968 ccm, 130 kW / 177 KM",13.990
+
+Caddy,2016,142000,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",14.890
+
+Passat,2012,263000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.390
+
+Caddy,2016,248150,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",13.300
+
+Golf,2014,116000,bencinski motor,ročni menjalnik,"1197 ccm, 63 kW / 86 KM",9.790
+
+Caddy,2016,159000,diesel motor,ročni menjalnik,"1968 ccm, 55 kW / 75 KM",13.800
+
+Golf,2001,262000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.100
+
+Passat,2016,164000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",17.890
+
+Tiguan,2011,247521,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",10.685
+
+Passat,2018,123000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.990
+
+Tiguan,2017,99200,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",24.990
+
+Golf,2017,119878,elektro pogon,avtomatski menjalnik,100 kW,18.490
+
+Polo,2012,44650,bencinski motor,ročni menjalnik,"1198 ccm, 51 kW / 69 KM",6.500
+
+Passat,2011,243090,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.990
+
+Passat,2013,276000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.690
+
+Passat,2014,224000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",11.500
+
+Golf,2006,310000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.650
+
+Passat,2016,228000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",16.850
+
+Touareg,2016,159000,diesel motor,avtomatski menjalnik,"2967 ccm, 193 kW / 262 KM",27.350
+
+Golf,2013,74127,bencinski motor,ročni menjalnik,"1395 ccm, 103 kW / 140 KM",12.950
+
+T-Cross,2006,384000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.250
+
+Golf,2014,205002,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",13.950
+
+Golf,2018,67815,bencinski motor,avtomatski menjalnik,"1498 ccm, 110 kW / 150 KM",26.990
+
+Golf,2018,116487,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",15.980
+
+Lupo,2005,290000,diesel motor,ročni menjalnik,"1700 ccm, 45 kW / 61 KM",890
+
+Golf,2016,133572,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",13.480
+
+Golf,2015,208056,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",13.850
+
+Jetta,2012,216000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.490
+
+Golf,2011,227664,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.390
+
+Passat,2016,149000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.880
+
+Passat,2015,176500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",12.990
+
+Scirocco,2010,137000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",10.499
+
+Passat,2008,275000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.950
+
+Golf,1998,300000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",750
+
+Caravelle,2012,173224,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",18.999
+
+Passat,2015,153859,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",13.800
+
+Passat,2017,141245,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",18.250
+
+Passat,2012,240003,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.990
+
+Passat,2015,128017,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",22.890
+
+Tiguan,2013,138500,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",14.990
+
+Golf,2016,139000,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",12.490
+
+Caddy,2018,114000,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",17.850
+
+Golf,2014,178000,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",13.880
+
+Golf,2014,149002,bencinski motor,ročni menjalnik,"1984 ccm, 169 kW / 230 KM",16.950
+
+Golf,2013,64000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",10.990
+
+Golf,2014,82466,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",10.990
+
+Golf,2010,360000,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",5.600
+
+Golf,2015,190150,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",9.290
+
+Polo,2010,167953,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",5.500
+
+Touran,2013,229000,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",8.885
+
+Caddy,2013,100000,diesel motor,ročni menjalnik,"1598 ccm, 75 kW / 102 KM",11.590
+
+Touareg,2013,174000,diesel motor,avtomatski menjalnik,"2967 ccm, 150 kW / 204 KM",18.890
+
+Golf,2010,185000,bencinski motor,ročni menjalnik,"1390 ccm, 90 kW / 122 KM",6.490
+
+Passat,2011,246000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.350
+
+Passat,2006,294500,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.390
+
+Hrošč,1973,100000,bencinski motor,ročni menjalnik,"1192 ccm, 25 kW / 34 KM",1.700
+
+Golf,2010,183000,bencinski motor,ročni menjalnik,"1390 ccm, 90 kW / 122 KM",6.290
+
+Golf,2012,212000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.900
+
+Tiguan,2017,98300,diesel motor,ročni menjalnik,"1968 ccm, 85 kW / 116 KM",19.900
+
+Golf,2014,235000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",8.300
+
+Polo,2002,130000,bencinski motor,ročni menjalnik,44 kW / 60 KM,400
+
+Passat,2015,209002,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",13.950
+
+Passat,2017,175000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",18.500
+
+Golf,2015,169987,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",10.490
+
+Golf,2018,145858,diesel motor,avtomatski menjalnik,"1968 ccm, 135 kW / 184 KM",21.990
+
+Golf,1999,290000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",750
+
+Golf,2012,164000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.690
+
+Passat,2006,370000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.800
+
+Polo,2021,20635,bencinski motor,avtomatski menjalnik,"999 ccm, 70 kW / 95 KM",17.990
+
+Golf,2017,61000,bencinski motor,ročni menjalnik,"1395 ccm, 92 kW / 125 KM",17.290
+
+Tiguan,2016,175000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",17.685
+
+Golf,2017,72688,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.990
+
+Touran,2011,192000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.790
+
+Golf,2004,178000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",2.150
+
+Golf,2008,220000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.900
+
+Polo,2011,107062,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",10.990
+
+Passat,2011,175000,bencinski motor,avtomatski menjalnik,"1798 ccm, 118 kW / 160 KM",9.250
+
+Passat,2016,123001,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",21.950
+
+Touran,2012,176000,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",9.650
+
+Golf,1998,280000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",700
+
+Touran,2012,258002,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.950
+
+Golf,1997,157601,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",24.444
+
+Tiguan,2018,149853,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.999
+
+Golf,2010,191920,bencinski motor,ročni menjalnik,"1984 ccm, 199 kW / 271 KM",15.900
+
+Polo,2005,261000,bencinski motor,ročni menjalnik,"1199 ccm, 40 kW / 54 KM",1.490
+
+Tiguan,2017,121583,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",26.990
+
+Passat,1999,255000,bencinski motor,ročni menjalnik,"1781 ccm, 110 kW / 150 KM",2.150
+
+Golf,2011,149000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.500
+
+Touran,2014,145000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",11.690
+
+Golf,1989,237000,diesel motor,ročni menjalnik,16 kW / 22 KM,1.600
+
+Touran,2011,250001,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.850
+
+Passat,2018,129719,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",19.980
+
+Golf,2013,208191,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.999
+
+Passat,2018,145201,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",25.555
+
+Golf,2019,112391,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.390
+
+Touareg,2014,256401,diesel motor,avtomatski menjalnik,"2967 ccm, 180 kW / 245 KM",19.990
+
+Tiguan,2017,142292,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",25.860
+
+Touran,2015,95000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",14.990
+
+Touran,2007,260000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.850
+
+Tiguan,2009,295000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.500
+
+Golf,2015,107000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Golf,2005,291400,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.400
+
+Golf,2012,172024,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.880
+
+Touran,2012,210000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",8.800
+
+Golf,2006,275000,bencinski motor,ročni menjalnik,"1390 ccm, 125 kW / 170 KM",3.290
+
+Golf,2017,39145,bencinski motor,avtomatski menjalnik,"1984 ccm, 169 kW / 230 KM",18.350
+
+Golf,2021,9000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",28.700
+
+Touran,2018,159000,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",15.490
+
+Passat,2018,133000,diesel motor,avtomatski menjalnik,"1598 ccm, 88 kW / 120 KM",14.990
+
+Passat,2016,262000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",17.490
+
+Touran,2016,240000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",11.900
+
+Golf,2016,130572,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",14.950
+
+Golf,2012,210000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.950
+
+Passat,2015,142600,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",18.990
+
+Passat,2002,527000,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",990
+
+Touran,2016,134000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Tiguan,2017,103000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",20.990
+
+Passat,2000,215000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",4.999
+
+Touran,2004,317818,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.500
+
+Passat,2012,227610,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",8.900
+
+Passat,2001,256000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.250
+
+Beetle,2013,132444,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",7.499
+
+Golf,1999,367109,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",500
+
+Passat,2015,181000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.800
+
+Sharan,2015,141000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",17.990
+
+Touran,2011,200000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.980
+
+Touran,2016,117000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",20.990
+
+Caddy,2015,159002,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",13.750
+
+Golf,2007,275000,bencinski motor,ročni menjalnik,"1390 ccm, 90 kW / 122 KM",3.690
+
+Golf,2015,148000,diesel motor,avtomatski menjalnik,"1968 ccm, 135 kW / 184 KM",17.500
+
+Touran,2018,146400,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.980
+
+Touran,2016,168000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.600
+
+Golf,2011,267000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.100
+
+Golf,2004,325322,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",5.590
+
+Polo,2003,166035,bencinski motor,ročni menjalnik,"1198 ccm, 47 kW / 64 KM",1.000
+
+Golf,2021,1700,bencinski motor,avtomatski menjalnik,"1984 ccm, 180 kW / 245 KM",39.900
+
+Golf,2000,136300,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",420
+
+Scirocco,2010,218000,bencinski motor,ročni menjalnik,"1984 ccm, 147 kW / 200 KM",8.490
+
+Golf,2006,152000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.000
+
+Tiguan,2008,192454,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",8.690
+
+Golf,2006,270000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",2.450
+
+Passat,2016,178000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",18.990
+
+Golf,2018,169002,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",13.990
+
+Tiguan,2017,127505,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.490
+
+Polo,2011,225000,bencinski motor,ročni menjalnik,"1390 ccm, 62 kW / 84 KM",6.800
+
+Sharan,2013,258002,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",11.950
+
+Touran,2016,108829,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",19.990
+
+Passat,2018,204630,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Touran,2006,325000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",1.300
+
+Polo,2021,18000,bencinski motor,ročni menjalnik,"999 ccm, 70 kW / 95 KM",16.378
+
+Golf,2008,249000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",6.490
+
+Passat,2016,212016,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",10.490
+
+Golf,2017,74990,bencinski motor,ročni menjalnik,"1197 ccm, 81 kW / 110 KM",13.950
+
+Touran,2005,340000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.777
+
+Passat,2011,268000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.800
+
+Passat,2015,248001,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.950
+
+Tiguan,2016,112866,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.500
+
+Golf,2014,256000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",8.499
+
+Golf,2012,212000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.500
+
+Golf,2010,122000,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",6.995
+
+Golf,2005,289560,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.500
+
+Golf,1986,227000,diesel motor,ročni menjalnik,"1588 ccm, 37 kW / 50 KM",750
+
+Golf,2001,131601,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",25.888
+
+Golf,1989,234545,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",10.590
+
+Golf,2007,272000,bencinski motor,ročni menjalnik,"1984 ccm, 147 kW / 200 KM",7.200
+
+Passat,2018,100749,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",18.999
+
+Golf,2010,200085,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",9.000
+
+Polo,2003,119000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.990
+
+Golf,2011,163884,bencinski motor,ročni menjalnik,"1197 ccm, 63 kW / 86 KM",6.490
+
+Hrošč,1972,56868,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",18.500
+
+Golf,2016,109000,bencinski motor,ročni menjalnik,"1197 ccm, 63 kW / 86 KM",11.900
+
+Polo,2003,172289,bencinski motor,ročni menjalnik,"1198 ccm, 47 kW / 64 KM",900
+
+Passat,2011,288000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.990
+
+Golf,1999,244000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",950
+
+Golf,2016,172327,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.699
+
+Golf,2010,241000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.400
+
+Golf,1999,287000,diesel motor,ročni menjalnik,"1896 ccm, 81 kW / 110 KM",1.100
+
+Lupo,1999,75000,diesel motor,ročni menjalnik,"999 ccm, 37 kW / 50 KM",1.111
+
+Passat,2016,229000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",12.950
+
+Golf,2018,11000,bencinski motor,ročni menjalnik,"1498 ccm, 96 kW / 131 KM",17.999
+
+Golf,2014,156600,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",10.490
+
+Golf,2014,149000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",13.111
+
+Golf,2006,170000,bencinski motor,ročni menjalnik,"1600 ccm, 74 kW / 101 KM",850
+
+Polo,2012,209000,diesel motor,ročni menjalnik,"1199 ccm, 55 kW / 75 KM",4.700
+
+Passat,2014,270000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",10.850
+
+Hrošč,1974,138389,diesel motor,avtomatski menjalnik,"1968 ccm, 135 kW / 184 KM",25.970
+
+Golf,2018,124190,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",17.970
+
+Golf,2018,130390,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.490
+
+Passat,2015,188400,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",11.777
+
+ID.4,2014,96200,bencinski motor,ročni menjalnik,"1390 ccm, 90 kW / 122 KM",13.500
+
+Golf,2015,147200,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",11.950
+
+Golf,2013,188065,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.480
+
+Golf,2014,235000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.250
+
+Polo,2010,243900,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",5.150
+
+Passat,2003,296000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.950
+
+Passat,2017,149657,diesel motor,avtomatski menjalnik,"1598 ccm, 88 kW / 120 KM",15.980
+
+Passat,2013,220003,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.990
+
+Passat,2014,257000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",8.390
+
+Tiguan,2017,52494,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",28.290
+
+Tiguan,2017,52494,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",28.290
+
+Passat,2016,259001,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",11.850
+
+Polo,2014,172000,diesel motor,ročni menjalnik,"1422 ccm, 66 kW / 90 KM",6.990
+
+Passat,2015,198000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.999
+
+Passat,2009,235500,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",4.400
+
+Golf,2019,22100,bencinski motor,avtomatski menjalnik,"1984 ccm, 180 kW / 245 KM",26.999
+
+Passat,2013,198000,diesel motor,ročni menjalnik,"1968 ccm, 130 kW / 177 KM",11.400
+
+Passat,2017,131524,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.900
+
+Golf,2005,259000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.490
+
+Golf,2008,274711,bencinski motor,ročni menjalnik,"1595 ccm, 75 kW / 102 KM",4.890
+
+Golf,2015,126000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",14.749
+
+Golf,2015,23700,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",14.999
+
+Tiguan,2011,123584,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",11.670
+
+Passat,2003,394001,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.600
+
+Golf,2011,263000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.900
+
+Passat,2002,418000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.390
+
+Passat,2016,248002,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.850
+
+Golf,2008,235000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.990
+
+Golf,2009,279000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",6.490
+
+Scirocco,2009,180895,bencinski motor,ročni menjalnik,"1390 ccm, 118 kW / 160 KM",6.000
+
+Passat,2007,340000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.180
+
+Golf,2014,177002,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",14.690
+
+Golf,2011,52600,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",9.600
+
+Passat,2012,299000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",6.750
+
+Golf,2015,265331,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",8.990
+
+Jetta,2016,218001,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",9.990
+
+Polo,2020,10906,bencinski motor,ročni menjalnik,"999 ccm, 48 kW / 65 KM",15.690
+
+Golf,2009,149700,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",6.800
+
+Passat,2007,270000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.400
+
+Caravelle,2016,115000,diesel motor,avtomatski menjalnik,"1968 ccm, 150 kW / 204 KM",28.990
+
+Passat,2012,250479,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",10.490
+
+Caddy,2018,30000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",24.490
+
+Golf,2015,153000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",14.999
+
+Golf,2011,247900,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.500
+
+Transporter,2015,154600,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",24.555
+
+Tiguan,2010,41000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",12.200
+
+Golf,2001,267800,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",680
+
+Jetta,2011,211032,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.390
+
+CrossTouran,2007,250000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",5.800
+
+Golf,2015,120700,bencinski motor,ročni menjalnik,"1197 ccm, 63 kW / 86 KM",11.990
+
+Golf,2018,167451,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",17.990
+
+Caddy,2007,338000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.950
+
+Jetta,2006,283940,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.990
+
+Caddy,2004,280000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.450
+
+Caddy,2011,116000,diesel motor,ročni menjalnik,"1598 ccm, 75 kW / 102 KM",9.490
+
+Passat,2017,153271,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.990
+
+Passat,2015,245031,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",14.990
+
+Golf,2009,171000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.190
+
+Passat,2011,292001,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",6.990
+
+Passat,2008,209115,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.990
+
+Passat,2007,470000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.400
+
+Golf,2011,78000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",7.600
+
+Touareg,2008,171000,diesel motor,avtomatski menjalnik,"2461 ccm, 128 kW / 174 KM",7.500
+
+Polo,2013,98000,bencinski motor,ročni menjalnik,"1198 ccm, 51 kW / 69 KM",7.490
+
+Touran,2016,149752,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.850
+
+Golf,2018,50902,bencinski motor,avtomatski menjalnik,"1984 ccm, 169 kW / 230 KM",23.950
+
+Multivan,2017,110000,diesel motor,avtomatski menjalnik,"1968 ccm, 150 kW / 204 KM",33.900
+
+Golf,2000,210000,bencinski motor,ročni menjalnik,"2792 ccm, 150 kW / 204 KM",6.999
+
+Passat,2010,203558,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",10.999
+
+Passat,2004,370000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",700
+
+Sharan,2011,280000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.000
+
+Golf,2017,181343,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",11.999
+
+Polo,2004,270000,diesel motor,ročni menjalnik,"1896 ccm, 47 kW / 64 KM",850
+
+T-Roc,2018,49000,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",20.600
+
+Passat,2009,390000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.500
+
+Touareg,2019,48000,diesel motor,avtomatski menjalnik,"2967 ccm, 210 kW / 286 KM",55.990
+
+Polo,2006,125000,diesel motor,ročni menjalnik,"1422 ccm, 51 kW / 69 KM",3.400
+
+Golf,2005,272500,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",2.850
+
+Passat,2016,147400,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.250
+
+up!,2016,10000,bencinski motor,ročni menjalnik,"999 ccm, 44 kW / 60 KM",8.700
+
+Golf,2011,275000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.800
+
+Golf,2005,285000,diesel motor,avtomatski menjalnik,"1896 ccm, 77 kW / 105 KM",3.050
+
+Polo,2004,237000,bencinski motor,ročni menjalnik,"1198 ccm, 47 kW / 64 KM",1.500
+
+Passat,2021,800,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",33.490
+
+Passat,2001,303000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",3.000
+
+Polo,2014,188000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",10.900
+
+Scirocco,2009,166600,bencinski motor,ročni menjalnik,"1390 ccm, 118 kW / 160 KM",8.390
+
+Polo,2004,201000,bencinski motor,ročni menjalnik,"1199 ccm, 40 kW / 54 KM",850
+
+Passat,2015,209321,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",10.990
+
+Passat,2010,200000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.000
+
+Sharan,2011,259500,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",10.440
+
+Passat,2003,284876,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.800
+
+Polo,2004,278331,diesel motor,ročni menjalnik,"1896 ccm, 47 kW / 64 KM",750
+
+Passat,2017,149000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.770
+
+Golf,2006,259000,bencinski motor,ročni menjalnik,"1984 ccm, 147 kW / 200 KM",6.990
+
+Golf,2013,195000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.300
+
+Passat,2016,113977,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.995
+
+Golf,2006,331001,diesel motor,ročni menjalnik,"1968 ccm, 55 kW / 75 KM",2.750
+
+Caddy,2016,189873,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",11.999
+
+Passat,2012,250000,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",6.800
+
+up!,2016,95831,bencinski motor,ročni menjalnik,"999 ccm, 44 kW / 60 KM",7.490
+
+Passat,2015,214200,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",9.999
+
+Passat,2013,259000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.500
+
+Passat,2006,314000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.700
+
+Touran,2011,137813,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",7.999
+
+Golf,2010,135730,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.599
+
+Passat,2011,254102,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.300
+
+Golf,2010,179000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",5.250
+
+Golf,2006,199000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.850
+
+Golf,2008,27000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.100
+
+Jetta,2012,256000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.400
+
+Passat,2014,229000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.900
+
+Golf,2011,226000,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",5.800
+
+Touran,2013,306000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.250
+
+Golf,2017,128000,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",21.444
+
+Passat,2001,380000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",2.100
+
+Golf,2003,280000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",2.290
+
+Passat,2017,162500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.500
+
+Sharan,2011,170423,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",15.790
+
+Golf,2000,242000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",2.750
+
+Golf,2018,88000,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",21.000
+
+Golf,2003,243129,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",2.222
+
+Golf,2004,341000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.000
+
+Golf,2004,172200,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",2.390
+
+Golf,2016,115000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Golf,2010,213500,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",6.200
+
+Passat,2004,376123,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.350
+
+Passat,2002,470000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.150
+
+Golf,2015,98700,bencinski motor,ročni menjalnik,"1197 ccm, 81 kW / 110 KM",11.990
+
+Passat,2015,142000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.200
+
+Passat,2015,194000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",13.890
+
+Passat,2010,331000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",5.900
+
+Passat,2015,109000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.960
+
+Golf,2002,260000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.900
+
+Golf,2014,204000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",10.500
+
+Passat,2009,256000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",5.100
+
+Golf,2004,300000,diesel motor,ročni menjalnik,"1968 ccm, 55 kW / 75 KM",1.500
+
+Golf,2014,244000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",9.990
+
+Passat,2003,327000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.950
+
+Caravelle,2018,60000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",40.000
+
+Tiguan,2017,134881,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",24.888
+
+Tiguan,2012,191000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",12.200
+
+Golf,2015,147000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Tiguan,2021,9500,diesel motor,avtomatski menjalnik,"1968 ccm, 147 kW / 200 KM",43.990
+
+Tiguan,2018,148000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",28.500
+
+Golf,2005,320000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.200
+
+Touran,2012,91000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",13.200
+
+Golf,2006,137000,bencinski motor,ročni menjalnik,"1984 ccm, 147 kW / 200 KM",6.800
+
+Touareg,2005,330000,diesel motor,avtomatski menjalnik,"4921 ccm, 230 kW / 313 KM",7.000
+
+Passat,2017,144000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.490
+
+Golf,2013,115000,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",8.990
+
+Polo,2009,83000,bencinski motor,ročni menjalnik,"1198 ccm, 44 kW / 60 KM",5.700
+
+Hrošč,1975,112000,bencinski motor,ročni menjalnik,"35 ccm, 35 kW / 48 KM",6.700
+
+Golf,2014,116000,bencinski motor,ročni menjalnik,"1197 ccm, 63 kW / 86 KM",9.790
+
+Touran,2006,283000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.390
+
+Passat,2007,58500,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",20.500
+
+Golf,2014,198000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",11.500
+
+Passat,2008,350000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.550
+
+Tiguan,2018,85124,diesel motor,avtomatski menjalnik,"1998 ccm, 110 kW / 150 KM",22.999
+
+Passat,2001,358140,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.000
+
+Golf,2010,262000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",3.850
+
+Passat,2007,318000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.600
+
+Polo,2002,137000,bencinski motor,ročni menjalnik,46 kW / 63 KM,650
+
+Passat,2015,249000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",12.250
+
+Passat,2015,215000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",14.000
+
+Passat,2006,214066,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",4.000
+
+Jetta,2011,192000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.400
+
+Sharan,2015,156774,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",14.488
+
+Golf,2015,128900,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",13.250
+
+Golf,2017,130000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.690
+
+Passat,2007,398000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.700
+
+Golf,2016,177000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",12.590
+
+Golf,2018,169873,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",16.999
+
+Passat,2013,248000,diesel motor,ročni menjalnik,"1968 ccm, 130 kW / 177 KM",10.000
+
+Caddy,2014,260000,diesel motor,ročni menjalnik,75 kW / 102 KM,8.500
+
+Golf,2007,138220,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",6.000
+
+Golf,1998,228000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.400
+
+Bora,2000,274000,diesel motor,ročni menjalnik,66 kW / 90 KM,870
+
+Golf,2017,185000,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",17.999
+
+Polo,2001,307128,diesel motor,ročni menjalnik,"1896 ccm, 47 kW / 64 KM",1.650
+
+Golf,2010,230002,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",5.490
+
+Passat,2011,315344,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",6.450
+
+Golf,2018,22001,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",24.990
+
+Touareg,2005,335000,diesel motor,ročni menjalnik,"2461 ccm, 128 kW / 174 KM",3.900
+
+Passat,2017,135000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",16.950
+
+Passat,2019,149000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.500
+
+Caravelle,2012,230000,diesel motor,ročni menjalnik,"20 ccm, 103 kW / 140 KM",19.850
+
+Golf,2011,134000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.490
+
+Passat,2012,314555,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",6.999
+
+Golf,2009,250521,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",6.390
+
+Golf,2018,110000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",19.350
+
+Golf,2010,160000,diesel motor,ročni menjalnik,"1968 ccm, 88 kW / 120 KM",7.550
+
+Golf,2014,152300,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.800
+
+Golf,2009,114260,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.699
+
+Golf,2012,140000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.950
+
+Golf,2010,144000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",5.690
+
+Polo,2005,199454,bencinski motor,ročni menjalnik,"1390 ccm, 74 kW / 101 KM",2.100
+
+Passat,2016,143000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",18.880
+
+Passat,2018,122000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",18.980
+
+Golf,2008,194103,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",4.890
+
+Golf,2015,145000,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",15.950
+
+Passat,2016,219000,diesel motor,ročni menjalnik,110 kW / 150 KM,17.150
+
+Golf,2017,129228,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",13.990
+
+Golf,1990,289000,diesel motor,ročni menjalnik,"1588 ccm, 44 kW / 60 KM",740
+
+Golf,2017,82000,bencinski motor,ročni menjalnik,"1498 ccm, 110 kW / 150 KM",18.350
+
+Golf,2007,298000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",2.999
+
+Transporter,1996,108000,bencinski motor,ročni menjalnik,"1968 ccm, 62 kW / 84 KM",10.900
+
+Amarok,2018,50200,diesel motor,avtomatski menjalnik,"2997 ccm, 165 kW / 224 KM",37.200
+
+Passat,2008,295000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",5.100
+
+Polo,2007,146884,bencinski motor,ročni menjalnik,"1390 ccm, 59 kW / 80 KM",3.300
+
+Caddy,1985,150000,diesel motor,ročni menjalnik,45 kW / 61 KM,11.000
+
+Golf,2010,167400,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.190
+
+Passat,2015,180000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",13.500
+
+Passat,2012,204000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.200
+
+Golf,2014,124000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",12.480
+
+Passat,2008,400000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.750
+
+Touran,2014,194000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.200
+
+Passat,2013,268500,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.950
+
+Touran,2017,32500,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",20.900
+
+Golf,2015,162000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",11.480
+
+Passat,2012,210002,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.290
+
+Passat,2015,161837,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.980
+
+Touran,2005,318340,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.100
+
+CC,2012,209000,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",14.880
+
+Touran,2018,128200,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",16.790
+
+Passat,2007,391000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.590
+
+Passat,2018,105346,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",18.490
+
+Golf,2013,85211,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.250
+
+Golf,2019,90130,bencinski motor,ročni menjalnik,"1498 ccm, 96 kW / 131 KM",15.890
+
+Caddy,2014,320000,diesel motor,ročni menjalnik,75 kW / 102 KM,8.100
+
+Golf,2014,140000,bencinski motor,avtomatski menjalnik,"1984 ccm, 169 kW / 230 KM",18.000
+
+Golf,2018,77000,bencinski motor,avtomatski menjalnik,"1984 ccm, 180 kW / 245 KM",28.000
+
+Golf,2015,198600,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.240
+
+Golf,2003,252000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.300
+
+Passat,2016,170000,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",19.500
+
+Transporter,2002,367512,diesel motor,ročni menjalnik,"2461 ccm, 65 kW / 88 KM",6.500
+
+Jetta,2007,225432,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.899
+
+Passat,2012,258000,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",8.990
+
+Golf,2009,230000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",5.950
+
+Golf,2009,149874,bencinski motor,ročni menjalnik,"1595 ccm, 75 kW / 102 KM",4.999
+
+Golf,2017,98000,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",15.990
+
+Touran,2017,177776,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",14.600
+
+Polo,2017,134000,diesel motor,ročni menjalnik,"1422 ccm, 66 kW / 90 KM",9.900
+
+Golf,1998,260000,bencinski motor,ročni menjalnik,"1595 ccm, 74 kW / 101 KM",690
+
+Golf,2013,121800,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",11.250
+
+Sharan,2005,268000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",2.990
+
+Golf,2010,213000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",5.990
+
+Polo,2003,167000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.200
+
+Golf,2007,278000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.000
+
+Passat,2011,186000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.390
+
+Golf,1998,259000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",450
+
+Golf,2017,159000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.490
+
+Touran,2007,255000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.550
+
+Golf,2015,126000,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",16.800
+
+Golf,2011,261095,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",5.950
+
+Golf,2014,134000,bencinski motor,ročni menjalnik,"1984 ccm, 162 kW / 220 KM",15.999
+
+Golf,2000,279240,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",500
+
+Golf,2018,122000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.890
+
+Golf,2017,43500,bencinski motor,avtomatski menjalnik,"1984 ccm, 169 kW / 230 KM",24.590
+
+Passat,2019,59500,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",26.885
+
+Sharan,2013,198000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.885
+
+Golf,2014,94500,diesel motor,ročni menjalnik,"1968 ccm, 135 kW / 184 KM",16.800
+
+Polo,2010,61000,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",7.490
+
+Golf,2019,105886,bencinski motor,avtomatski menjalnik,"1984 ccm, 180 kW / 245 KM",25.990
+
+Golf,2014,137023,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.970
+
+Golf,2014,166771,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",9.999
+
+Golf,2011,239000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.900
+
+Golf,2013,137543,bencinski motor,ročni menjalnik,"1395 ccm, 103 kW / 140 KM",13.699
+
+Golf,2014,112300,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",9.700
+
+Golf,2016,191000,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",10.999
+
+Golf,2002,260000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",999
+
+Tiguan,2012,151800,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",13.980
+
+Touran,2018,165236,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",15.990
+
+Golf,2002,309444,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",2.200
+
+Passat,2018,163115,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",24.670
+
+Transporter,2008,310000,diesel motor,ročni menjalnik,"2460 ccm, 96 kW / 131 KM",5.985
+
+Polo,2001,139500,bencinski motor,ročni menjalnik,"900 ccm, 55 kW / 75 KM",690
+
+Golf,2011,320000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",4.100
+
+Golf,2011,193000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.785
+
+Passat,2018,170000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",19.990
+
+Caravelle,2018,71000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",39.690
+
+-,2003,314000,bencinski motor,ročni menjalnik,"2500 ccm, 85 kW / 116 KM",5.900
+
+Passat,1999,300000,diesel motor,ročni menjalnik,"1896 ccm, 81 kW / 110 KM",900
+
+Tiguan,2017,36072,bencinski motor,ročni menjalnik,"1395 ccm, 110 kW / 150 KM",29.999
+
+Passat,2014,190001,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.990
+
+Polo,2004,234000,diesel motor,ročni menjalnik,47 kW / 64 KM,950
+
+Golf,2020,8500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.490
+
+Passat,2000,161000,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",4.800
+
+Golf,2010,187000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.250
+
+Golf,2015,131000,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",9.300
+
+Golf,2016,164000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",10.490
+
+Passat,2009,269339,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.890
+
+Sharan,2013,274000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.690
+
+Touran,2016,124608,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",17.990
+
+Golf,2001,320000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",799
+
+Golf,2009,269000,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",8.999
+
+Sharan,2011,340000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.500
+
+Polo,2019,56000,bencinski motor,ročni menjalnik,"999 ccm, 70 kW / 95 KM",13.500
+
+Transporter,2011,234000,diesel motor,ročni menjalnik,"2000 ccm, 103 kW / 140 KM",12.700
+
+Passat,2014,208000,diesel motor,avtomatski menjalnik,"2000 ccm, 103 kW / 140 KM",8.650
+
+Golf,2016,54900,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",12.600
+
+Golf,2000,399000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",1.500
+
+Golf,2002,320000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",2.550
+
+Touran,2019,156244,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",17.690
+
+Golf,2000,162000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",700
+
+Passat,2001,278500,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.990
+
+Eos,2007,245000,bencinski motor,ročni menjalnik,"1984 ccm, 110 kW / 150 KM",5.590
+
+Arteon,2007,160000,bencinski motor,ročni menjalnik,"1595 ccm, 75 kW / 102 KM",3.400
+
+Golf,2009,350430,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.650
+
+Tiguan,2018,99242,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",31.980
+
+Passat,2016,228000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",12.850
+
+Golf,2016,39000,elektro pogon,avtomatski menjalnik,85 kW,15.600
+
+Touran,2010,213000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",6.550
+
+Passat,2009,333000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",5.000
+
+Golf,2013,176305,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",13.899
+
+Tiguan,2010,215000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",10.990
+
+Polo,2021,20295,bencinski motor,ročni menjalnik,"999 ccm, 70 kW / 95 KM",16.890
+
+Passat,1998,331000,bencinski motor,ročni menjalnik,"1781 ccm, 110 kW / 150 KM",550
+
+Passat,2020,22600,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",30.333
+
+Tiguan,2009,295000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.650
+
+Golf,2018,103796,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",19.490
+
+Polo,2018,42500,bencinski motor,ročni menjalnik,"999 ccm, 70 kW / 95 KM",13.800
+
+Tiguan,2013,188000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",13.200
+
+T-Roc,2018,94797,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",26.990
+
+Golf,2015,154000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",10.950
+
+T-Roc,2018,55300,bencinski motor,ročni menjalnik,"1498 ccm, 110 kW / 150 KM",23.990
+
+Passat,2017,149000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",14.995
+
+Passat,2015,168108,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Passat,2009,230286,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.950
+
+Polo,2018,125446,diesel motor,ročni menjalnik,"1598 ccm, 70 kW / 95 KM",14.450
+
+Golf,2010,77813,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",9.300
+
+Tiguan,2018,57478,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",39.990
+
+Golf,2018,89977,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.490
+
+Touran,2016,144040,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",18.600
+
+Passat,2015,228000,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",10.000
+
+Passat,2018,54616,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.990
+
+Passat,2021,15000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",34.898
+
+Passat,2019,130392,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",25.590
+
+Golf,2015,154000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",14.950
+
+Tiguan,2017,119358,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",25.680
+
+Golf,2016,95000,bencinski motor,avtomatski menjalnik,"1984 ccm, 169 kW / 230 KM",19.200
+
+Passat,2016,169346,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",18.100
+
+Touran,2016,113815,diesel motor,avtomatski menjalnik,"1598 ccm, 81 kW / 110 KM",19.900
+
+Golf,2019,79544,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",15.970
+
+Eos,2014,170000,diesel motor,ročni menjalnik,"2000 ccm, 130 kW / 177 KM",11.990
+
+Tiguan,2015,57000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",16.850
+
+Golf,2007,343258,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.999
+
+Passat,2014,244000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.940
+
+Jetta,2008,290000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.300
+
+Passat,2003,341000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.175
+
+Touran,2016,169000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",16.200
+
+Multivan,2016,269074,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",27.990
+
+T-Cross,2021,15000,bencinski motor,ročni menjalnik,"999 ccm, 81 kW / 110 KM",21.742
+
+Passat,2005,265000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.500
+
+Golf,2002,380000,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.300
+
+Golf,2009,132000,diesel motor,ročni menjalnik,77 kW / 105 KM,6.999
+
+Multivan,2010,278000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",18.900
+
+Golf,2015,169000,diesel motor,avtomatski menjalnik,"1968 ccm, 135 kW / 184 KM",15.990
+
+Golf,2011,149000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.888
+
+Golf,2015,144200,bencinski motor,ročni menjalnik,"1395 ccm, 92 kW / 125 KM",13.780
+
+Transporter,2017,154600,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",24.990
+
+Polo,2013,120000,diesel motor,ročni menjalnik,"1199 ccm, 55 kW / 75 KM",7.220
+
+Golf,2014,123040,diesel motor,avtomatski menjalnik,"1968 ccm, 135 kW / 184 KM",17.990
+
+Golf,1991,270000,diesel motor,ročni menjalnik,"1588 ccm, 44 kW / 60 KM",990
+
+Passat,2018,119991,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",21.990
+
+CrossTouran,2008,193719,bencinski motor,avtomatski menjalnik,"1390 ccm, 103 kW / 140 KM",7.400
+
+Passat,2016,159000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.700
+
+Transporter,2017,265000,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",18.290
+
+Passat,2009,304000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",5.300
+
+Polo,1998,185466,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",15.999
+
+Sharan,2007,265000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.999
+
+Golf,2016,143301,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",12.490
+
+Multivan,2003,290000,diesel motor,ročni menjalnik,"2460 ccm, 128 kW / 174 KM",7.900
+
+Passat,2014,229630,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.990
+
+Tiguan,2013,120328,diesel motor,avtomatski menjalnik,"1968 ccm, 130 kW / 177 KM",18.990
+
+Passat,2015,181116,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",14.900
+
+Touran,2007,244000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.900
+
+Passat,2003,6344,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",31.888
+
+Golf,2003,287000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",1.400
+
+Golf,2010,138000,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.300
+
+Golf,2002,211000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.290
+
+Beetle,2014,26001,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",11.350
+
+Passat,2017,209313,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.999
+
+Touran,2018,147724,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",22.490
+
+Touareg,2005,315000,diesel motor,avtomatski menjalnik,"2967 ccm, 165 kW / 224 KM",8.000
+
+Touran,2018,165288,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",16.690
+
+Golf,2014,151285,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.990
+
+Passat,2012,177001,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.650
+
+Golf,2016,62601,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",12.800
+
+Passat,2015,190000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",16.500
+
+Golf,1999,287000,bencinski motor,ročni menjalnik,"1781 ccm, 110 kW / 150 KM",2.100
+
+Passat,2015,176000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.400
+
+Touran,2016,133000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.440
+
+Touran,2011,261374,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.800
+
+Passat,2015,118900,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.770
+
+Golf,2005,317000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.700
+
+Caddy,2018,132000,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",15.990
+
+Golf,2011,261000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.980
+
+Golf,2013,148000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",12.799
+
+Golf,2013,134500,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",10.499
+
+Multivan,2006,289765,diesel motor,avtomatski menjalnik,"2460 ccm, 96 kW / 131 KM",8.900
+
+Polo,2014,75940,diesel motor,ročni menjalnik,"1422 ccm, 66 kW / 90 KM",7.990
+
+Golf,1999,296000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",1.250
+
+Tiguan,2008,170000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.790
+
+Passat,2014,238000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.950
+
+Passat,2014,220000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.850
+
+Transporter,2017,163000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",27.000
+
+Passat,2005,375000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.000
+
+Passat,2001,298000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",2.150
+
+Amarok,2014,170000,diesel motor,avtomatski menjalnik,"1968 ccm, 132 kW / 179 KM",19.000
+
+Golf,2019,48000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",25.555
+
+Golf,1989,182735,bencinski motor,ročni menjalnik,40 kW / 54 KM,1.000
+
+Tiguan,2009,186000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.690
+
+Sharan,2013,189000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",11.950
+
+Passat,2015,212000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",11.900
+
+Golf,2012,94500,bencinski motor,ročni menjalnik,"1984 ccm, 155 kW / 211 KM",14.490
+
+Passat,2016,152000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.999
+
+Golf,2003,310000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",200
+
+Golf,2004,328000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.450
+
+Passat,2002,385000,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",700
+
+Polo,2012,73500,bencinski motor,ročni menjalnik,"1198 ccm, 44 kW / 60 KM",7.200
+
+Passat,2018,140000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",19.490
+
+Golf,2016,83520,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",13.900
+
+Scirocco,2008,170000,bencinski motor,avtomatski menjalnik,"1984 ccm, 147 kW / 200 KM",8.999
+
+Passat,2011,10500,bencinski motor,ročni menjalnik,26 kW / 35 KM,7.500
+
+Passat,2006,320000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.699
+
+Passat,2018,115000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.870
+
+Golf,2005,305000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",2.100
+
+Passat,2001,394889,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",800
+
+Polo,1999,198000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",5.800
+
+Golf,2005,345000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",2.500
+
+Multivan,2004,357238,diesel motor,ročni menjalnik,"2460 ccm, 96 kW / 131 KM",9.777
+
+Passat,2013,220001,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.490
+
+Tiguan,2007,220635,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.500
+
+Golf,2019,141524,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.470
+
+Golf,2012,61350,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",7.500
+
+Golf,1999,250000,diesel motor,ročni menjalnik,"1896 ccm, 47 kW / 64 KM",700
+
+ID.4,2016,164400,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",36.500
+
+Golf,2009,166200,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",6.490
+
+Golf,2013,179460,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",8.590
+
+Polo,2019,15670,bencinski motor,ročni menjalnik,"999 ccm, 70 kW / 95 KM",8.888
+
+Golf,2009,195000,bencinski motor,ročni menjalnik,"1390 ccm, 90 kW / 122 KM",5.300
+
+Golf,2013,135560,bencinski motor,ročni menjalnik,"1197 ccm, 63 kW / 86 KM",8.390
+
+Passat,2012,278000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",6.890
+
+Golf,2017,53000,bencinski motor,ročni menjalnik,"999 ccm, 81 kW / 110 KM",16.590
+
+Passat,2008,255704,bencinski motor,ročni menjalnik,"1798 ccm, 118 kW / 160 KM",3.000
+
+Passat,2015,163651,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",12.990
+
+Golf,2000,110000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.500
+
+Passat,2014,235001,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.990
+
+Golf,2003,111007,diesel motor,ročni menjalnik,"1199 ccm, 55 kW / 75 KM",8.990
+
+Tiguan,2017,144173,diesel motor,avtomatski menjalnik,"1598 ccm, 88 kW / 120 KM",13.800
+
+Golf,2016,182000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",12.000
+
+Passat,2007,277117,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.200
+
+Golf,2017,150000,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",12.999
+
+Transporter,2004,373000,diesel motor,ročni menjalnik,"2461 ccm, 96 kW / 131 KM",8.200
+
+Passat,2013,200001,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",12.990
+
+Tiguan,2017,65970,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",27.900
+
+Golf,2018,71000,bencinski motor,ročni menjalnik,"999 ccm, 81 kW / 110 KM",15.590
+
+Touran,2021,13430,bencinski motor,avtomatski menjalnik,"1498 ccm, 110 kW / 150 KM",32.352
+
+Passat,2008,300000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.000
+
+Touran,2017,128842,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",17.255
+
+Golf,2018,76900,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",19.100
+
+Passat,2012,149000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.300
+
+Passat,2015,148900,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.990
+
+Golf,1997,150000,diesel motor,ročni menjalnik,"1968 ccm, 140 kW / 190 KM",14.500
+
+Scirocco,2013,175000,diesel motor,avtomatski menjalnik,"19 ccm, 103 kW / 140 KM",10.000
+
+Golf,2015,89000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.490
+
+Golf,1985,299000,diesel motor,ročni menjalnik,"1588 ccm, 37 kW / 50 KM",3.300
+
+Tiguan,2011,160000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.850
+
+Passat,2012,190001,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.990
+
+Golf,2021,5900,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",33.990
+
+Tiguan,2018,136005,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",21.990
+
+Multivan,2003,390000,diesel motor,ročni menjalnik,"2460 ccm, 128 kW / 174 KM",9.500
+
+Caddy,2018,93816,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",19.000
+
+Passat,2019,75000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",25.590
+
+Golf,2015,137000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.800
+
+Passat,2016,175621,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",12.490
+
+Tiguan,2014,131000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",13.590
+
+Golf,2017,91000,diesel motor,avtomatski menjalnik,"1968 ccm, 135 kW / 184 KM",22.900
+
+Passat,2015,189000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",17.100
+
+Tiguan,2020,21000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",41.790
+
+Tiguan,2017,99200,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",24.990
+
+Passat,2008,304000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.500
+
+Golf,2016,124058,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",15.990
+
+Multivan,2011,249488,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",18.888
+
+Golf,2014,185000,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",12.500
+
+Golf,2013,186000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",9.850
+
+Golf,2014,160000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",11.290
+
+Caddy,2012,97220,diesel motor,ročni menjalnik,"1598 ccm, 55 kW / 75 KM",9.799
+
+Transporter,2007,302588,diesel motor,ročni menjalnik,"2460 ccm, 96 kW / 131 KM",4.500
+
+Tiguan,2019,131098,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",34.880
+
+Sharan,2016,97452,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",30.670
+
+Sharan,2014,262000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",10.800
+
+Golf,1984,245000,bencinski motor,ročni menjalnik,"1800 ccm, 82 kW / 111 KM",7.490
+
+Touareg,2005,330000,diesel motor,ročni menjalnik,"1896 ccm, 85 kW / 116 KM",720
+
+Touran,2016,172953,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",16.399
+
+Multivan,2016,195000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",27.500
+
+Multivan,2011,170000,diesel motor,avtomatski menjalnik,"1968 ccm, 132 kW / 179 KM",25.000
+
+Beetle,2012,153500,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",7.590
+
+Passat,2016,186500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.490
+
+Golf,2013,71500,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",10.500
+
+Tiguan,2017,55000,diesel motor,ročni menjalnik,"1968 ccm, 85 kW / 116 KM",22.990
+
+Touran,2016,175000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.300
+
+Passat,2010,150000,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",9.940
+
+Golf,2003,179000,diesel motor,ročni menjalnik,50 kW / 68 KM,2.500
+
+Passat,2016,129011,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",16.499
+
+CrossTouran,2008,193000,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",7.850
+
+Golf,2012,248000,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.950
+
+Passat,2013,269900,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",7.450
+
+Passat,2010,340000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.300
+
+CrossTouran,2007,311252,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.990
+
+Golf,2015,115000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",18.100
+
+Touareg,2008,219400,diesel motor,avtomatski menjalnik,"2967 ccm, 176 kW / 239 KM",7.600
+
+Golf,2014,160247,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",10.950
+
+Golf,2006,255000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.590
+
+Touran,2007,322200,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.399
+
+Tiguan,2018,40000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",29.600
+
+Tiguan,2017,111500,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",27.000
+
+Tiguan,2018,148000,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",29.900
+
+Passat,1999,390700,diesel motor,ročni menjalnik,"1896 ccm, 81 kW / 110 KM",2.950
+
+Passat,2007,329215,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.900
+
+Passat,2018,85700,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",28.000
+
+Golf,2015,199000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",13.999
+
+up!,2019,6474,bencinski motor,ročni menjalnik,"999 ccm, 44 kW / 60 KM",9.699
+
+Touran,2011,178000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.500
+
+Passat,2007,341000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.550
+
+Tiguan,2019,79990,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",33.990
+
+Touran,2017,120927,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.986
+
+Golf,2005,330000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",2.220
+
+Passat,2014,197000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.750
+
+Golf,2012,201000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.100
+
+Multivan,2018,140000,diesel motor,avtomatski menjalnik,"1968 ccm, 150 kW / 204 KM",41.990
+
+Golf,2012,178000,diesel motor,ročni menjalnik,"1598 ccm, 66 kW / 90 KM",6.990
+
+Passat,2009,305000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",3.990
+
+Passat,2019,83700,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",21.990
+
+Tiguan,2017,153000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",25.990
+
+CC,2013,311510,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",9.990
+
+Tiguan,2017,118996,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",25.970
+
+Passat,2017,131574,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",15.970
+
+Touran,2004,276000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.450
+
+Touran,2017,156907,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.350
+
+Polo,2005,288000,diesel motor,ročni menjalnik,74 kW / 101 KM,1.850
+
+ID.4,2019,137950,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",14.990
+
+ID.3,2017,183733,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.990
+
+Passat,2012,295226,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",8.850
+
+Passat,2017,128800,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.290
+
+Golf,2016,79416,bencinski motor,avtomatski menjalnik,"1395 ccm, 92 kW / 125 KM",14.490
+
+Golf,1985,160000,diesel motor,ročni menjalnik,"1588 ccm, 40 kW / 54 KM",6.000
+
+Touran,2016,169584,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.999
+
+Caddy,2018,170000,diesel motor,ročni menjalnik,"1968 ccm, 90 kW / 122 KM",18.490
+
+Tiguan,2014,90185,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",13.550
+
+Tiguan,2017,60613,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",26.980
+
+Caddy,2021,1300,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",27.300
+
+T-Cross,2021,1950,bencinski motor,avtomatski menjalnik,"999 ccm, 81 kW / 110 KM",27.190
+
+Passat,2013,260000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.300
+
+Golf,2010,204562,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.990
+
+Golf,2007,202000,bencinski motor,ročni menjalnik,"1595 ccm, 75 kW / 102 KM",3.990
+
+Golf,2015,207000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.500
+
+Tiguan,2018,125400,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",21.380
+
+T-Roc,2018,132650,bencinski motor,ročni menjalnik,"999 ccm, 85 kW / 116 KM",18.000
+
+Golf,2015,176010,bencinski motor,ročni menjalnik,"1197 ccm, 81 kW / 110 KM",11.999
+
+Golf,2011,245000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.490
+
+Caddy,2017,140000,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",17.990
+
+Golf,2002,295000,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.150
+
+Golf,2015,103000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",12.750
+
+Tiguan,2019,99900,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",25.970
+
+Golf,2014,177373,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.990
+
+T-Cross,2017,118567,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",17.990
+
+Touran,2014,101131,bencinski motor,ročni menjalnik,"1390 ccm, 103 kW / 140 KM",9.999
+
+up!,2018,32961,bencinski motor,ročni menjalnik,"999 ccm, 66 kW / 90 KM",11.690
+
+Passat,2008,248171,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.790
+
+Passat,2017,113912,bencinski motor,avtomatski menjalnik,"1395 ccm, 110 kW / 150 KM",18.490
+
+Passat,2015,210600,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.900
+
+Touran,2016,154500,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",14.900
+
+Tiguan,2019,131098,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",34.880
+
+Touran,2007,350000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.500
+
+Touran,2017,140785,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.990
+
+Golf,1988,205000,diesel motor,ročni menjalnik,"1588 ccm, 44 kW / 60 KM",780
+
+Sharan,2012,243215,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",13.490
+
+Touran,2016,174058,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",12.950
+
+Tiguan,2013,160300,diesel motor,ročni menjalnik,"1968 ccm, 130 kW / 177 KM",13.990
+
+Tiguan,2019,149500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.470
+
+Polo,2008,195000,bencinski motor,ročni menjalnik,"1781 ccm, 110 kW / 150 KM",1.199
+
+Touran,2013,233000,diesel motor,avtomatski menjalnik,"1598 ccm, 77 kW / 105 KM",7.790
+
+Passat,2016,147000,diesel motor,avtomatski menjalnik,"1598 ccm, 88 kW / 120 KM",11.820
+
+Passat,1999,300000,diesel motor,ročni menjalnik,"1896 ccm, 81 kW / 110 KM",1.050
+
+Golf,2002,322340,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.700
+
+Transporter,1994,414000,diesel motor,ročni menjalnik,"2370 ccm, 57 kW / 77 KM",2.299
+
+Passat,2016,190000,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",12.990
+
+Golf,2017,128992,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",13.200
+
+Phaeton,2007,33200,diesel motor,avtomatski menjalnik,"2967 ccm, 165 kW / 224 KM",5.700
+
+Golf,2016,80000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",15.990
+
+Transporter,2016,129344,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.990
+
+Golf,2012,218000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.000
+
+Touran,2016,192170,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",15.250
+
+Golf,2003,269000,diesel motor,ročni menjalnik,50 kW / 68 KM,890
+
+Amarok,2016,156000,diesel motor,avtomatski menjalnik,"2967 ccm, 165 kW / 224 KM",32.500
+
+Golf,2010,192000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.490
+
+Passat,2014,199000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.950
+
+Caddy,2014,188000,diesel motor,ročni menjalnik,"1598 ccm, 75 kW / 102 KM",10.390
+
+Golf,2005,330000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.767
+
+Passat,2007,341500,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.400
+
+Passat,1999,300000,diesel motor,ročni menjalnik,"1896 ccm, 81 kW / 110 KM",1.050
+
+Golf,2002,322340,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.700
+
+Transporter,1994,414000,diesel motor,ročni menjalnik,"2370 ccm, 57 kW / 77 KM",2.299
+
+Passat,2016,190000,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",12.990
+
+Golf,2017,128992,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",13.200
+
+Phaeton,2007,33200,diesel motor,avtomatski menjalnik,"2967 ccm, 165 kW / 224 KM",5.700
+
+Golf,2016,80000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",15.990
+
+Transporter,2016,129344,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.990
+
+Golf,2012,218000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.000
+
+Touran,2016,192170,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",15.250
+
+Golf,2003,269000,diesel motor,ročni menjalnik,50 kW / 68 KM,890
+
+Amarok,2016,156000,diesel motor,avtomatski menjalnik,"2967 ccm, 165 kW / 224 KM",32.500
+
+Golf,2010,192000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.490
+
+Passat,2014,199000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.950
+
+Caddy,2014,188000,diesel motor,ročni menjalnik,"1598 ccm, 75 kW / 102 KM",10.390
+
+Golf,2005,330000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.767
+
+Passat,2007,341500,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",3.400
+
+Golf,2017,95000,bencinski motor,avtomatski menjalnik,"1984 ccm, 169 kW / 230 KM",22.990
+
+Tiguan,2019,121992,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",26.970
+
+T-Roc,2018,41623,bencinski motor,ročni menjalnik,"999 ccm, 85 kW / 116 KM",21.990
+
+Tiguan,2017,129890,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.999
+
+Passat,2018,133029,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",19.970
+
+Passat,2003,360000,diesel motor,ročni menjalnik,85 kW / 116 KM,950
+
+Golf,2012,190138,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",8.490
+
+Passat,2008,309400,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.100
+
+Sharan,2014,194000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",12.390
+
+Golf,2000,128600,bencinski motor,ročni menjalnik,"1395 ccm, 110 kW / 150 KM",12.990
+
+Sharan,2015,230415,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.490
+
+Tiguan,2018,129983,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",26.490
+
+Touran,2019,129941,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",21.990
+
+Tiguan,2016,80441,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.500
+
+Golf,2008,330000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",1.850
+
+Polo,2014,81000,bencinski motor,ročni menjalnik,"1197 ccm, 66 kW / 90 KM",9.000
+
+T-Cross,2018,46000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",18.900
+
+Golf,2017,74000,bencinski motor,ročni menjalnik,"999 ccm, 81 kW / 110 KM",14.490
+
+Golf,2006,260000,diesel motor,ročni menjalnik,"1896 ccm, 66 kW / 90 KM",3.590
+
+Passat,2013,94000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",10.990
+
+Golf,2018,76953,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",15.990
+
+Golf,2009,179986,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",6.500
+
+Passat,1999,250632,diesel motor,ročni menjalnik,"1896 ccm, 81 kW / 110 KM",600
+
+Arteon,2018,110000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",27.990
+
+Tiguan,2013,159200,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",13.990
+
+Passat,2015,170000,diesel motor,ročni menjalnik,"1598 ccm, 88 kW / 120 KM",12.380
+
+Tiguan,2008,319000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",7.490
+
+Sharan,2014,142323,diesel motor,avtomatski menjalnik,"1968 ccm, 130 kW / 177 KM",21.990
+
+Golf,2018,126798,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",15.970
+
+Golf,2007,307200,bencinski motor,avtomatski menjalnik,"3189 ccm, 184 kW / 250 KM",16.000
+
+Jetta,2016,198000,diesel motor,ročni menjalnik,"1968 ccm, 81 kW / 110 KM",10.290
+
+Golf,2015,245000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",11.850
+
+Passat,2002,340000,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.850
+
+Passat,2004,301478,diesel motor,ročni menjalnik,"1896 ccm, 96 kW / 131 KM",1.750
+
+Golf,1986,300000,diesel motor,ročni menjalnik,"1588 ccm, 51 kW / 69 KM",500
+
+Touran,2012,212200,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.999
+
+Golf,2013,164870,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",11.999
+
+up!,2017,83200,bencinski motor,ročni menjalnik,"999 ccm, 66 kW / 90 KM",9.499
+
+Tiguan,2017,68266,bencinski motor,ročni menjalnik,"1395 ccm, 92 kW / 125 KM",21.999
+
+Touareg,2010,245000,diesel motor,avtomatski menjalnik,"2967 ccm, 176 kW / 239 KM",16.500
+
+Golf,2009,247000,bencinski motor,ročni menjalnik,"1798 ccm, 118 kW / 160 KM",5.200
+
+Golf,2013,187000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.999
+
+Passat,2000,300000,diesel motor,ročni menjalnik,"2496 ccm, 110 kW / 150 KM",1.690
+
+Golf,2005,322461,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.444
+
+Caddy,2016,116000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",19.900
+
+Passat,2017,108000,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",20.890
+
+Fox,2006,185000,bencinski motor,ročni menjalnik,"1390 ccm, 55 kW / 75 KM",1.490
+
+Passat,2017,185443,diesel motor,ročni menjalnik,"1596 ccm, 88 kW / 120 KM",12.550
+
+Passat,2012,221000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.290
+
+Golf,2014,229000,bencinski motor,ročni menjalnik,"1984 ccm, 169 kW / 230 KM",15.990
+
+Caddy,2015,168000,diesel motor,ročni menjalnik,"1968 ccm, 55 kW / 75 KM",11.890
+
+Passat,2015,203000,diesel motor,avtomatski menjalnik,"1598 ccm, 88 kW / 120 KM",11.299
+
+Jetta,2007,245512,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",3.250
+
+Passat,2017,145158,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.900
+
+T-Roc,2018,65000,bencinski motor,ročni menjalnik,"999 ccm, 85 kW / 116 KM",19.000
+
+Tiguan,2014,199000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",13.950
+
+up!,2018,64440,bencinski motor,ročni menjalnik,"999 ccm, 44 kW / 60 KM",8.899
+
+Passat,2016,189000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",12.950
+
+Polo,2003,205000,bencinski motor,ročni menjalnik,47 kW / 64 KM,1.000
+
+Golf,2009,230000,bencinski motor,ročni menjalnik,"1390 ccm, 90 kW / 122 KM",4.999
+
+Touran,2018,156000,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",17.350
+
+Polo,2007,210000,diesel motor,ročni menjalnik,"1422 ccm, 51 kW / 69 KM",2.950
+
+Touran,2012,96864,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",9.600
+
+Tiguan,2017,142300,diesel motor,ročni menjalnik,"1968 ccm, 85 kW / 116 KM",18.990
+
+Tiguan,2016,86000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",23.550
+
+Transporter,1986,206000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",14.899
+
+Caddy,2016,142000,diesel motor,ročni menjalnik,"1968 ccm, 75 kW / 102 KM",14.890
+
+Passat,2015,139000,diesel motor,avtomatski menjalnik,"1968 ccm, 176 kW / 239 KM",20.990
+
+Golf,2015,137000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",14.580
+
+Passat,2006,280000,diesel motor,ročni menjalnik,"1968 ccm, 125 kW / 170 KM",2.500
+
+Golf,2017,48000,bencinski motor,ročni menjalnik,"999 ccm, 81 kW / 110 KM",14.990
+
+Polo,2015,107000,bencinski motor,ročni menjalnik,"1197 ccm, 66 kW / 90 KM",7.900
+
+Touareg,2008,322000,diesel motor,avtomatski menjalnik,"2461 ccm, 128 kW / 174 KM",7.700
+
+Passat,2016,167000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",17.990
+
+Passat,2003,332000,diesel motor,ročni menjalnik,"1896 ccm, 74 kW / 101 KM",1.350
+
+Golf,2010,209000,bencinski motor,ročni menjalnik,"1984 ccm, 155 kW / 211 KM",14.000
+
+Passat,2014,177300,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.900
+
+Touran,2018,140791,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",16.500
+
+Tiguan,2016,124500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",22.950
+
+Passat,2008,300581,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",4.000
+
+Touran,2017,98000,diesel motor,ročni menjalnik,"1598 ccm, 85 kW / 116 KM",18.690
+
+Golf,2017,158000,diesel motor,avtomatski menjalnik,"1598 ccm, 85 kW / 116 KM",13.890
+
+Golf,2013,159358,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",13.000
+
+Polo,2003,152000,bencinski motor,ročni menjalnik,"1199 ccm, 47 kW / 64 KM",1.390
+
+Polo,2016,137000,diesel motor,ročni menjalnik,"1422 ccm, 55 kW / 75 KM",9.222
+
+Passat,2007,274000,diesel motor,ročni menjalnik,"1896 ccm, 77 kW / 105 KM",4.200
+
+Passat,2016,190000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",15.800
+
+Multivan,1996,317000,diesel motor,ročni menjalnik,"2370 ccm, 57 kW / 77 KM",9.100
+
+Golf,2009,260000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",5.000
+
+Passat,2010,338000,diesel motor,avtomatski menjalnik,"1968 ccm, 125 kW / 170 KM",9.999
+
+Passat,2011,143000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",9.900
+
+Multivan,2018,70000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",47.900
+
+Passat,2017,200000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.990
+
+Golf,2013,280000,diesel motor,ročni menjalnik,"1598 ccm, 77 kW / 105 KM",7.555
+
+Passat,2017,111500,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",16.490
+
+Golf,2003,257000,diesel motor,ročni menjalnik,"1896 ccm, 50 kW / 68 KM",2.000
+
+Passat,2016,159700,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",15.490
+
+Caddy,2011,304000,diesel motor,ročni menjalnik,"1598 ccm, 75 kW / 102 KM",6.900
+
+Golf,2010,178513,bencinski motor,ročni menjalnik,"1197 ccm, 77 kW / 105 KM",6.490
+
+Passat,2014,199980,diesel motor,avtomatski menjalnik,"1968 ccm, 103 kW / 140 KM",10.990
+
+Sharan,2013,280000,diesel motor,avtomatski menjalnik,"1968 ccm, 130 kW / 177 KM",12.000
+
+Passat,2018,126000,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",23.500
+
+Golf,2014,154214,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",9.000
+
+Passat,2015,183500,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",14.990
+
+Tiguan,2020,16500,diesel motor,avtomatski menjalnik,"1968 ccm, 140 kW / 190 KM",38.500
+
+Golf,2015,141000,diesel motor,ročni menjalnik,"1598 ccm, 81 kW / 110 KM",11.000
+
+Golf,2006,218000,bencinski motor,ročni menjalnik,"1390 ccm, 59 kW / 80 KM",3.390
+
+Golf,2014,225000,diesel motor,avtomatski menjalnik,"1968 ccm, 110 kW / 150 KM",12.590
+
+Touran,2020,28000,diesel motor,ročni menjalnik,"1968 ccm, 110 kW / 150 KM",31.200
+
+Tiguan,2018,84000,diesel motor,ročni menjalnik,"1968 ccm, 85 kW / 116 KM",21.700
+
+Touran,2012,244527,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.690
+
+Touareg,2008,345000,diesel motor,ročni menjalnik,"2967 ccm, 165 kW / 224 KM",5.700
+
+Passat,2011,299644,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.390
+
+Golf,2013,175000,diesel motor,ročni menjalnik,"1968 ccm, 103 kW / 140 KM",8.990
+
